@@ -1,12 +1,3 @@
 # ComakeryTestAutomation
-<<<<<<< HEAD
 this is a change on master
-=======
-
-  | Now, | this | is  | a | story| all | about | how |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| my | life | got  | flipped | turned | upside | down | !|
-| and | i | like  | to | take | a | minute | just | 
-|sit | right  | there | i'll | tell | you | how| i | 
-|became | a  | prince | of | a | town | called|Bel-Air|
->>>>>>> README file update - table with strings
+further change on master
